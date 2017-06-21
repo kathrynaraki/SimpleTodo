@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-#! [Walkthrough](SimpleTodoWalkthrough.gif)
-SimpleTodo/SimpleTodoWalkthrough.gif
+<img src='SimpleTodo/SimpleTodoWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [QuickTime](SimpleTodo/SimpleTodoWalkthrough.gif).
 
