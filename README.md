@@ -25,9 +25,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-! [Walkthrough](SimpleTododemo.mp4)
+! [Walkthrough](SimpleTodoWalkthrough.gif)
 
-GIF created with [QuickTime](SimpleTodo/SimpleTododemo.mp4).
+GIF created with [QuickTime](SimpleTodo/SimpleTodoWalkthrough.gif).
 
 ## Notes
 
