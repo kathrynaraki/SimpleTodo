@@ -25,7 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-! [Walkthrough](SimpleTodoWalkthrough.gif)
+#! [Walkthrough](SimpleTodoWalkthrough.gif)
+SimpleTodo/SimpleTodoWalkthrough.gif
 
 GIF created with [QuickTime](SimpleTodo/SimpleTodoWalkthrough.gif).
 
@@ -37,7 +38,7 @@ I found a lot of challenges with using git to push and pull changes, I ran into 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Kathryn]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
