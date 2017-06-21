@@ -33,7 +33,7 @@ GIF created with [QuickTime](SimpleTodo/SimpleTodoWalkthrough.gif).
 
 Describe any challenges encountered while building the app.
 
-I found a lot of challenges with using git to push and pull changes, I ran into a merge conflict while doing this.
+I found a lot of challenges with using git to push and pull changes, I ran into a few merge conflicts while doing this.
 
 ## License
 
